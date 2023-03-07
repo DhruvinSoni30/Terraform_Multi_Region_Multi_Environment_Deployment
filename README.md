@@ -16,5 +16,4 @@ Before you begin, you'll need:
 * Run `terraform init` to initialize the working directory.
 * Run `terraform plan` to preview the changes that will be made to your infrastructure.
 * Run `terraform apply` to create the resources.
-* Once the resources have been created, you can access Jenkins by navigating to the public IP address of the EC2 instance in your web browser.
 * When you are finished using the resources, you can destroy them by running `terraform destroy`.
