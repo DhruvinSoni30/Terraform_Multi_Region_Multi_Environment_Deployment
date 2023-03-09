@@ -1,4 +1,4 @@
-# How to deploy multi region environment on AWS using Terraform Modules?
+# How to deploy multi region & multi environment on AWS using Terraform Modules?
 
 
 ### Prerequisites
